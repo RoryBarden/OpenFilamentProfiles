@@ -145,7 +145,7 @@
         "nil"
     ],
     "filament_settings_id": [
-        "ELEGOO PLA PLA @Qidi X-Smart 3 0.4 nozzle"
+        "ELEGOO PLA 1.75mm White @Qidi X-Smart3 0.4mm Nozzle"
     ],
     "filament_shrink": [
         "100%"
@@ -198,7 +198,7 @@
     ],
     "inherits": "",
     "is_custom_defined": "0",
-    "name": "ELEGOO PLA PLA @Qidi X-Smart 3 0.4 nozzle",
+    "name": "ELEGOO PLA 1.75mm White @Qidi X-Smart3 0.4mm Nozzle",
     "nozzle_temperature": [
         "205"
     ],
