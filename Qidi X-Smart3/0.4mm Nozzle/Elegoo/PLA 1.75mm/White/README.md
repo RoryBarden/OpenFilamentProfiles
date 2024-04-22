@@ -1,10 +1,6 @@
-## Installation
 
-### Windows
+## Tested Values
 
-Place both files in `%AppData%/OrcaSlicer/user/default/filament/base/`
-
-### Values
 | Variable | Value |
 |:---:|:---:|
 | Flow Ratio | 1.0702 |
@@ -16,3 +12,9 @@ Place both files in `%AppData%/OrcaSlicer/user/default/filament/base/`
 | Print Temperature - Other Layers | 205&deg;C |
 | Bed Temperature | 60&deg;C |
 | Max Volumetric Speed | 16 mm<sup>3</sup>/s |
+
+## Installation
+
+### Windows
+
+Place both files in `%AppData%/OrcaSlicer/user/default/filament/base/`
